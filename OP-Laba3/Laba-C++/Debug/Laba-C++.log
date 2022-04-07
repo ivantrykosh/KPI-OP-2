@@ -1,0 +1,8 @@
+﻿  Func.cpp
+C:\Ivan\OP-Laba3\Laba-C++\Func.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba3\Laba-C++\Func.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba3\Laba-C++\Func.cpp(129,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba3\Laba-C++\Func.cpp(132,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba3\Laba-C++\Func.cpp(143,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba3\Laba-C++\Func.cpp(32): warning C4172: возвращение адреса локальной или временной переменной : v
+  Laba-C++.vcxproj -> C:\Ivan\OP-Laba3\Laba-C++\Debug\Laba-C++.exe
