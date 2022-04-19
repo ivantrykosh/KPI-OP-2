@@ -1,0 +1,9 @@
+﻿  Func.cpp
+C:\Ivan\OP-Laba4\Laba-C++\Func.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba4\Laba-C++\Func.cpp(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba4\Laba-C++\Func.cpp(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba4\Laba-C++\Func.cpp(145,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Ivan\OP-Laba4\Laba-C++\Func.cpp(158,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba-C++.cpp
+  Создание кода...
+  Laba-C++.vcxproj -> C:\Ivan\OP-Laba4\Laba-C++\Debug\Laba-C++.exe
