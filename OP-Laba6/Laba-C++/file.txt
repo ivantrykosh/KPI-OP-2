@@ -1,0 +1,24 @@
+#include <iostream>
+#include <cmath>
+
+int main ( void )
+{
+	unsigned int a , b , c ;
+	double lc , la , lb , p , r , radius , square ;
+	std::cout << "Input a: " ;
+	std::cin >> a ;
+	std::cout << "Input b: " ;
+	std::cin >> b ;
+	std::cout << "Input c: " ;
+	std::cin >> c ;
+	lc = sqrt ( a * b * ( a + b + c ) * ( a + b - c ) ) / ( a + b ) ;
+	la = sqrt ( c * b * ( a + b + c ) * ( c + b - a ) ) / ( c + b ) ;
+	lb = sqrt ( a * c * ( a + b + c ) * ( a + c - b ) ) / ( a + c ) ;
+	p = ( a + b + c ) / 2 ;
+	r = sqrt ( ( p - a ) * ( p - b ) * ( p - c ) / p ) ;
+	square = sqrt ( p * ( p - a ) * ( p - b ) * ( p - c ) ) ;
+	radius = ( a * b * c ) / ( 4 * square ) ;
+	std::cout << "bisector_a = " << la << "; bisector_b = " << lb << "; bisector_c = " << lc << ";" ;
+	std::cout << "\nradius of the inscribed circle = " << r << "; \nradius of the circumscribed circle = " << radius << ".\n" ;
+	return 0 ;
+}
